@@ -10,7 +10,7 @@ How much there is to learn! With technology constantly evolving, there will neve
 🐞 Debugging! 🐛 I love digging around, breaking things, writing tests, figuring out how everything works, and solving problems!
 
 ### 🪄🎩 Skills/Experience:
-##### Proficient
+##### Most Comfortable
 Ruby on Rails || SQL || PostgreSQL || RSpec
 ##### Exposure
 Java || JUnit || GraphQL || HTML || CSS
