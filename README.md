@@ -22,7 +22,7 @@ My goal is to eventually translate the entire school curriculum I went through f
 
 ### 🤔 I’m looking for:
 Mentorship. Are you an expert in Java? I'd love some feedback on my projects!
-
+I'm also on the market for an internship, apprenticeship, or junior engineering role. While I may be focusing on Ruby on Rails and Java right now, I'm excited to learn other languages and technologies! If you know a team looking for someone eager to learn (and who always has random fun facts to share) I'd love to connect!
   
 ### 💬 Ask me about:
 Plants! My background is in landscape design and plant bioscience. I'm particularly interested in sustainability.
