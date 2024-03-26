@@ -27,18 +27,17 @@ Testing: RSpec
 Testing: JUnit
   
 ### 🌱 I’m currently learning:
-Java! I'm following some tutorials to get some basics, and translating an old school project from Ruby to Java.
-
-My goal is to eventually translate the entire school curriculum I went through from Ruby on Rails to Java and Springboot. Not only will that boost my understanding of Java, but I believe it would also be a great resource for anyone else who is interested in learning it as well.
+TypeScript!
+I'm building [Memory Match](https://github.com/MemoryMatch) with two other job-seekers to pass the time and keep our skills sharp while we're all looking for full-time positions. I'm the only one on the team that has not worked with TS before, and I'm loving the challenge!
 
 ### 🤔 I’m looking for:
-Mentorship. Are you an expert in Java? I'd love some feedback on my projects!
+Mentorship, especially for career guidance. I'd love to meet with folks from various different roles in the tech industry, and learn about what path(s) might be best for me.
 
-I'm also on the market for an internship, apprenticeship, or junior engineering role. While I may be focusing on Ruby on Rails and Java right now, I'm excited to learn other languages and technologies! If you know a team looking for someone eager to learn (and who always has random fun facts to share) I'd love to connect!
+I'm also on the market for an internship, apprenticeship, or junior role. If you know a team looking for someone eager to learn (and who always has random fun facts to share) I'd love to connect!
   
 ### 💬 Ask me about:
 Plants! My background is in landscape design and plant bioscience. I'm particularly interested in sustainability.
-If your company does any work related to sustainability and the environment, I'd love the connect!
+If your company does any work related to sustainability and the environment, let's talk!
   
 ### 📫 How to reach me:
 email: artemygibson@gmail.com
