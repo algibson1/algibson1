@@ -28,7 +28,7 @@ Testing: JUnit
   
 ### 🌱 I’m currently learning:
  - Java
-   - I'm following some online tutorials and translating an old Ruby project of mine into Java. My long-term goal is to translate the back-end curriculum from Turing School of Software and Design (a Ruby on Rails program) into Java using Springboot. I hope it will be a great resource for others who want to learn Java!
+   - I'm following some online tutorials and translating an old Ruby project of mine into Java. My long-term goal is to translate the back-end curriculum from Turing School of Software and Design (a Ruby on Rails program) into Java using Springboot. I hope it will be a great resource for others who want to learn Java/Springboot!
  - TypeScript & React
     - I'm building [Memory Match](https://github.com/MemoryMatch) with two front-end developers. I'm the only one on the team that has not worked with TS or React before, and I'm loving the challenge!
 
