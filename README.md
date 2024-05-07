@@ -31,11 +31,6 @@ Testing: JUnit
    - I'm following some online tutorials and translating an old Ruby project of mine into Java. My long-term goal is to translate the back-end curriculum from Turing School of Software and Design (a Ruby on Rails program) into Java using Springboot. I hope it will be a great resource for others who want to learn Java/Springboot!
  - TypeScript & React
     - I'm building [Memory Match](https://github.com/MemoryMatch) with two front-end developers. I'm the only one on the team that has not worked with TS or React before, and I'm loving the challenge!
-
-### 🤔 I’m looking for:
-Mentorship, especially for career guidance. I'd love to meet with folks from various different roles in the tech industry, and learn about what path(s) might be best for me.
-
-I'm also on the market for an internship, apprenticeship, or junior role. If you know a team looking for someone eager to learn (and who always has random fun facts to share) I'd love to connect!
   
 ### 💬 Ask me about:
 Plants! My background is in landscape design and plant bioscience. I'm particularly interested in sustainability.
