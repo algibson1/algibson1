@@ -1,7 +1,7 @@
 ## Hi There! 👋
 I'm Artemy!
 
-I'm a software engineer with a certificate in back-end engineering from Turing School of Software and Design.
+I'm a Data Quality Analyst, and part-time back-end engineering tutor!
 
 ### ⭐️ My favorite part of the tech industry:
 How much there is to learn! With technology constantly evolving, there will never be a shortage of learning opportunities.
@@ -34,7 +34,6 @@ Testing: JUnit
   
 ### 💬 Ask me about:
 Plants! My background is in landscape design and plant bioscience. I'm particularly interested in sustainability.
-If your company does any work related to sustainability and the environment, let's talk!
   
 ### 📫 How to reach me:
 email: artemygibson@gmail.com
